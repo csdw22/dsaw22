@@ -1,1 +1,1 @@
-FROM unistey/mg-vtu:latest
+FROM uspls/study_xxqg:latest
