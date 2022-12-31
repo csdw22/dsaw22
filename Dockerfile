@@ -1,1 +1,1 @@
-FROM uspls/study_xxqg:latest
+FROM uspls/study_xxqg:1.38b5
