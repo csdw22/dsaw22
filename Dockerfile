@@ -1,1 +1,1 @@
-FROM uspls/study_xxqg:1.38b6yuanban
+FROM daxia2023/doc:nodejs-wanju
