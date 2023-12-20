@@ -1,1 +1,1 @@
-FROM daxia2023/doc:nodejs-wanju
+FROM unistey/docker-ndjswj:latest
